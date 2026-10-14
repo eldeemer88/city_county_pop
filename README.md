@@ -39,20 +39,6 @@ sqlite3 output/city_pop.db "SELECT city, share_2020, peak_share, peak_share_year
 sqlite3 output/city_pop.db "SELECT city, year, share_pct FROM observations WHERE year=1950 ORDER BY share_pct DESC;"
 ```
 
-## Publishing free on GitHub Pages
-
-1. This repository is set up for it; to publish a fork or copy, create a **public** repository and push this folder:
-   ```bash
-   git clone https://github.com/<your-username>/city_county_pop.git
-   ```
-2. On GitHub: **Settings → Pages → Build and deployment → Source: Deploy from a branch**, then choose
-   branch `main`, folder `/docs`, and click Save.
-3. After a minute or two the app is live at `https://<your-username>.github.io/city_county_pop/`. Re-running
-   `python run_all.py` and pushing updates it.
-
-GitHub Pages is free for public repositories. Anyone without the link can still use the app by
-downloading `docs/index.html`.
-
 ## National and regional averages
 
 `src/make_aggregates.py` averages the panel nationally and by U.S. Census region (Northeast 7 cities,
@@ -88,19 +74,6 @@ at the time; many cities reached their current area through annexation. Definiti
 the unweighted / population-weighted lines are the same as above. Outputs:
 `output/graphs/aggregates/size_*.png`, `output/graphs/city_size.pdf`, the **City Size** tab in
 the app, and database tables `city_size` and `aggregates` (rows with `scheme = 'size'`).
-
-## Running on another computer (e.g. shared via OneDrive)
-
-The folder is self-contained: all paths are relative to the project folder, the source data are
-cached in `data/raw/`, and the finished graphs and database are in `output/`.
-
-1. Download the whole folder and **unzip it** (OneDrive delivers a shared folder as a .zip; running from inside the zip will not work).
-2. Install Python 3.9 or newer (python.org, Anaconda, or Homebrew).
-3. **Just browse:** `python app/serve.py` (on macOS/Linux, `python3`). This needs only the Python standard library, because the database is already built. Use `--port 9000` if port 8765 is taken.
-4. **Rebuild from the raw data:** `pip install -r requirements.txt`, then `python run_all.py`. The first step downloads the two third-party source files (Stanford CESTA and van Leuven, pinned to fixed commits and SHA-256-verified) into `data/raw/`; they are not stored in this repository. Rebuilt data and database are identical; PNGs can differ trivially in font rendering across machines.
-
-Search uses SQLite's FTS5 module when the local Python has it and falls back to plain substring
-matching when it doesn't, so the tool works on any standard Python build.
 
 ## Layout
 
