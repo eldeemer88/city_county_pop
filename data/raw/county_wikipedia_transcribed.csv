@@ -1,0 +1,1491 @@
+county_key,county_name,state,year,population,source_url,accessed
+06037,Los Angeles County,CA,1850,3530,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,1860,11333,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,1870,15309,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,1880,33381,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,1890,101454,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,1900,170298,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,1910,504131,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,1920,936455,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,1930,2208492,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,1940,2785643,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,1950,4151687,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,1960,6038771,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,1970,7041980,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,1980,7477503,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,1990,8863164,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,2000,9519338,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,2010,9818605,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+06037,Los Angeles County,CA,2020,10014009,"https://en.wikipedia.org/wiki/Los_Angeles_County,_California",2026-10-14
+17031,Cook County,IL,1840,10201,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,1850,43385,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,1860,144954,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,1870,349966,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,1880,607524,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,1890,1191922,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,1900,1838735,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,1910,2405233,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,1920,3053017,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,1930,3982123,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,1940,4063342,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,1950,4508792,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,1960,5129725,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,1970,5492369,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,1980,5253655,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,1990,5105067,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,2000,5376741,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,2010,5194675,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+17031,Cook County,IL,2020,5275541,"https://en.wikipedia.org/wiki/Cook_County,_Illinois",2026-10-14
+48201,Harris County,TX,1850,4668,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,1860,9070,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,1870,17375,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,1880,27985,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,1890,37249,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,1900,63786,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,1910,115693,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,1920,186667,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,1930,359328,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,1940,528961,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,1950,806701,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,1960,1243158,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,1970,1741912,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,1980,2409547,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,1990,2818199,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,2000,3400578,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,2010,4092459,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+48201,Harris County,TX,2020,4731145,"https://en.wikipedia.org/wiki/Harris_County,_Texas",2026-10-14
+04013,Maricopa County,AZ,1880,5689,"https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",2026-10-14
+04013,Maricopa County,AZ,1890,10986,"https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",2026-10-14
+04013,Maricopa County,AZ,1900,20457,"https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",2026-10-14
+04013,Maricopa County,AZ,1910,34488,"https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",2026-10-14
+04013,Maricopa County,AZ,1920,89576,"https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",2026-10-14
+04013,Maricopa County,AZ,1930,150970,"https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",2026-10-14
+04013,Maricopa County,AZ,1940,186193,"https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",2026-10-14
+04013,Maricopa County,AZ,1950,331770,"https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",2026-10-14
+04013,Maricopa County,AZ,1960,663510,"https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",2026-10-14
+04013,Maricopa County,AZ,1970,971228,"https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",2026-10-14
+04013,Maricopa County,AZ,1980,1509175,"https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",2026-10-14
+04013,Maricopa County,AZ,1990,2122101,"https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",2026-10-14
+04013,Maricopa County,AZ,2000,3072149,"https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",2026-10-14
+04013,Maricopa County,AZ,2010,3817117,"https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",2026-10-14
+04013,Maricopa County,AZ,2020,4420568,"https://en.wikipedia.org/wiki/Maricopa_County,_Arizona",2026-10-14
+42101,Philadelphia County,PA,1790,54391,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1800,81009,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1810,111210,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1820,137097,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1830,188797,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1840,258037,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1850,408762,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1860,565529,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1870,674022,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1880,847170,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1890,1046964,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1900,1293697,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1910,1549008,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1920,1823779,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1930,1950961,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1940,1931334,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1950,2071605,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1960,2002512,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1970,1948609,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1980,1688609,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,1990,1585577,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,2000,1517550,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,2010,1526006,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+42101,Philadelphia County,PA,2020,1603797,"https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania",2026-10-14
+48029,Bexar County,TX,1850,6052,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,1860,14454,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,1870,16043,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,1880,30470,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,1890,49266,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,1900,69422,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,1910,119676,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,1920,202096,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,1930,292533,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,1940,338176,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,1950,500460,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,1960,687151,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,1970,830460,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,1980,988800,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,1990,1185394,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,2000,1392931,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,2010,1714773,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+48029,Bexar County,TX,2020,2009324,"https://en.wikipedia.org/wiki/Bexar_County,_Texas",2026-10-14
+06073,San Diego County,CA,1850,798,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,1860,4324,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,1870,4951,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,1880,8618,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,1890,34987,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,1900,35090,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,1910,61665,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,1920,112248,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,1930,209659,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,1940,289348,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,1950,556808,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,1960,1033011,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,1970,1357854,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,1980,1861846,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,1990,2498016,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,2000,2813833,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,2010,3095313,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+06073,San Diego County,CA,2020,3298634,"https://en.wikipedia.org/wiki/San_Diego_County,_California",2026-10-14
+48113,Dallas County,TX,1850,2743,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,1860,8665,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,1870,13814,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,1880,33488,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,1890,67042,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,1900,82726,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,1910,135748,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,1920,210551,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,1930,325691,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,1940,398564,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,1950,614799,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,1960,951527,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,1970,1327321,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,1980,1556390,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,1990,1852810,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,2000,2218899,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,2010,2368139,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+48113,Dallas County,TX,2020,2613539,"https://en.wikipedia.org/wiki/Dallas_County,_Texas",2026-10-14
+06085,Santa Clara County,CA,1850,4812,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,1860,11912,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,1870,26246,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,1880,35039,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,1890,48005,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,1900,60216,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,1910,83539,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,1920,100676,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,1930,145118,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,1940,174949,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,1950,290547,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,1960,642315,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,1970,1064714,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,1980,1295071,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,1990,1497577,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,2000,1682585,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,2010,1781642,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+06085,Santa Clara County,CA,2020,1936259,"https://en.wikipedia.org/wiki/Santa_Clara_County,_California",2026-10-14
+48453,Travis County,TX,1850,3138,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,1860,8080,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,1870,13153,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,1880,27028,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,1890,36322,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,1900,47386,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,1910,55620,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,1920,57616,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,1930,77777,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,1940,111053,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,1950,160980,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,1960,212136,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,1970,295516,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,1980,419573,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,1990,576407,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,2000,812280,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,2010,1024266,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+48453,Travis County,TX,2020,1290188,"https://en.wikipedia.org/wiki/Travis_County,_Texas",2026-10-14
+12031,Duval County,FL,1830,1970,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1840,4156,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1850,4539,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1860,5074,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1870,11921,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1880,19431,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1890,26800,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1900,39733,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1910,75163,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1920,113540,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1930,155503,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1940,210143,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1950,304029,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1960,455411,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1970,528865,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1980,571003,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,1990,672971,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,2000,778879,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,2010,864263,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+12031,Duval County,FL,2020,995567,"https://en.wikipedia.org/wiki/Duval_County,_Florida",2026-10-14
+48439,Tarrant County,TX,1850,664,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,1860,6020,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,1870,5788,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,1880,24671,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,1890,41142,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,1900,52376,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,1910,108572,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,1920,152800,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,1930,197553,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,1940,225521,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,1950,361253,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,1960,538495,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,1970,716317,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,1980,860880,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,1990,1170103,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,2000,1446219,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,2010,1809034,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+48439,Tarrant County,TX,2020,2110640,"https://en.wikipedia.org/wiki/Tarrant_County,_Texas",2026-10-14
+39049,Franklin County,OH,1810,3486,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1820,10292,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1830,14741,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1840,25049,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1850,42909,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1860,50361,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1870,63019,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1880,86797,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1890,124087,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1900,164460,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1910,221567,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1920,283951,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1930,361055,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1940,388712,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1950,503410,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1960,682962,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1970,833249,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1980,869132,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,1990,961437,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,2000,1068978,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,2010,1163414,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+39049,Franklin County,OH,2020,1323807,"https://en.wikipedia.org/wiki/Franklin_County,_Ohio",2026-10-14
+18097,Marion County,IN,1830,7192,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1840,16080,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1850,24103,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1860,39855,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1870,71939,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1880,102782,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1890,141156,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1900,197227,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1910,263661,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1920,348061,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1930,422666,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1940,460926,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1950,551777,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1960,697567,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1970,792299,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1980,765233,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,1990,797159,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,2000,860454,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,2010,903393,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+18097,Marion County,IN,2020,977203,"https://en.wikipedia.org/wiki/Marion_County,_Indiana",2026-10-14
+37119,Mecklenburg County,NC,1790,11395,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1800,10317,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1810,14272,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1820,16895,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1830,20073,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1840,18273,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1850,13914,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1860,17374,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1870,24299,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1880,34175,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1890,42673,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1900,55268,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1910,67031,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1920,80695,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1930,127971,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1940,151826,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1950,197052,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1960,272111,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1970,354656,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1980,404270,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,1990,511433,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,2000,695454,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,2010,919628,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+37119,Mecklenburg County,NC,2020,1115482,"https://en.wikipedia.org/wiki/Mecklenburg_County,_North_Carolina",2026-10-14
+53033,King County,WA,1860,302,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,1870,2120,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,1880,6910,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,1890,63989,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,1900,110053,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,1910,284638,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,1920,389273,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,1930,463517,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,1940,504980,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,1950,732992,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,1960,935014,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,1970,1156633,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,1980,1269749,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,1990,1507319,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,2000,1737034,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,2010,1931249,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+53033,King County,WA,2020,2269675,"https://en.wikipedia.org/wiki/King_County,_Washington",2026-10-14
+08005,Arapahoe County,CO,1870,6829,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+08005,Arapahoe County,CO,1880,38644,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+08005,Arapahoe County,CO,1890,132135,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+08005,Arapahoe County,CO,1900,153017,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+08005,Arapahoe County,CO,1910,10263,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+08005,Arapahoe County,CO,1920,13766,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+08005,Arapahoe County,CO,1930,22647,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+08005,Arapahoe County,CO,1940,32150,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+08005,Arapahoe County,CO,1950,52125,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+08005,Arapahoe County,CO,1960,113426,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+08005,Arapahoe County,CO,1970,162142,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+08005,Arapahoe County,CO,1980,293621,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+08005,Arapahoe County,CO,1990,391511,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+08005,Arapahoe County,CO,2000,487967,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+08005,Arapahoe County,CO,2010,572003,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+08005,Arapahoe County,CO,2020,655070,"https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado",2026-10-14
+11001,District of Columbia,DC,1800,8144,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1810,15471,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1820,23336,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1830,30261,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1840,33745,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1850,51687,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1860,75080,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1870,131700,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1880,177624,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1890,230392,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1900,278718,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1910,331069,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1920,437571,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1930,486869,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1940,663091,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1950,802178,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1960,763956,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1970,756510,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1980,638333,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,1990,606900,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,2000,572059,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,2010,601723,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+11001,District of Columbia,DC,2020,689545,"https://en.wikipedia.org/wiki/Washington,_D.C.",2026-10-14
+47037,Davidson County,TN,1790,3459,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1800,9965,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1810,15608,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1820,20154,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1830,28122,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1840,30509,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1850,38882,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1860,47055,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1870,62897,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1880,79026,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1890,108174,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1900,122815,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1910,149478,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1920,167815,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1930,222854,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1940,257267,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1950,321758,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1960,399743,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1970,448003,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1980,477811,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,1990,510784,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,2000,569891,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,2010,626681,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+47037,Davidson County,TN,2020,715884,"https://en.wikipedia.org/wiki/Davidson_County,_Tennessee",2026-10-14
+40109,Oklahoma County,OK,1890,11742,"https://en.wikipedia.org/wiki/Oklahoma_County,_Oklahoma",2026-10-14
+40109,Oklahoma County,OK,1900,25915,"https://en.wikipedia.org/wiki/Oklahoma_County,_Oklahoma",2026-10-14
+40109,Oklahoma County,OK,1910,85232,"https://en.wikipedia.org/wiki/Oklahoma_County,_Oklahoma",2026-10-14
+40109,Oklahoma County,OK,1920,116307,"https://en.wikipedia.org/wiki/Oklahoma_County,_Oklahoma",2026-10-14
+40109,Oklahoma County,OK,1930,221738,"https://en.wikipedia.org/wiki/Oklahoma_County,_Oklahoma",2026-10-14
+40109,Oklahoma County,OK,1940,244159,"https://en.wikipedia.org/wiki/Oklahoma_County,_Oklahoma",2026-10-14
+40109,Oklahoma County,OK,1950,325352,"https://en.wikipedia.org/wiki/Oklahoma_County,_Oklahoma",2026-10-14
+40109,Oklahoma County,OK,1960,439506,"https://en.wikipedia.org/wiki/Oklahoma_County,_Oklahoma",2026-10-14
+40109,Oklahoma County,OK,1970,526805,"https://en.wikipedia.org/wiki/Oklahoma_County,_Oklahoma",2026-10-14
+40109,Oklahoma County,OK,1980,568933,"https://en.wikipedia.org/wiki/Oklahoma_County,_Oklahoma",2026-10-14
+40109,Oklahoma County,OK,1990,599611,"https://en.wikipedia.org/wiki/Oklahoma_County,_Oklahoma",2026-10-14
+40109,Oklahoma County,OK,2000,660448,"https://en.wikipedia.org/wiki/Oklahoma_County,_Oklahoma",2026-10-14
+40109,Oklahoma County,OK,2010,718633,"https://en.wikipedia.org/wiki/Oklahoma_County,_Oklahoma",2026-10-14
+40109,Oklahoma County,OK,2020,796292,"https://en.wikipedia.org/wiki/Oklahoma_County,_Oklahoma",2026-10-14
+48141,El Paso County,TX,1860,4051,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,1870,3671,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,1880,3845,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,1890,15678,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,1900,24886,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,1910,52599,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,1920,101877,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,1930,131597,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,1940,131067,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,1950,194968,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,1960,314070,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,1970,359291,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,1980,479899,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,1990,591610,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,2000,679622,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,2010,800647,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+48141,El Paso County,TX,2020,865657,"https://en.wikipedia.org/wiki/El_Paso_County,_Texas",2026-10-14
+25025,Suffolk County,MA,1790,44865,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1800,28015,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1810,34381,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1820,43940,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1830,62163,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1840,95773,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1850,144517,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1860,192700,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1870,270802,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1880,387927,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1890,484780,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1900,611417,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1910,731388,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1920,835522,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1930,879536,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1940,863248,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1950,896615,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1960,791329,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1970,735190,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1980,650142,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,1990,663906,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,2000,689807,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,2010,722023,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+25025,Suffolk County,MA,2020,797936,"https://en.wikipedia.org/wiki/Suffolk_County,_Massachusetts",2026-10-14
+41051,Multnomah County,OR,1860,4150,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,1870,11510,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,1880,25203,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,1890,74884,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,1900,103167,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,1910,226261,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,1920,275898,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,1930,338241,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,1940,355099,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,1950,471537,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,1960,522813,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,1970,556667,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,1980,562640,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,1990,583887,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,2000,660486,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,2010,735334,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41051,Multnomah County,OR,2020,815428,"https://en.wikipedia.org/wiki/Multnomah_County,_Oregon",2026-10-14
+41067,Washington County,OR,1850,2652,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,1860,2801,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,1870,4261,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,1880,7082,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,1890,11972,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,1900,14467,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,1910,21522,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,1920,26376,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,1930,30275,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,1940,39194,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,1950,61269,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,1960,92237,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,1970,157920,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,1980,245808,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,1990,311554,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,2000,445342,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,2010,529710,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+41067,Washington County,OR,2020,600372,"https://en.wikipedia.org/wiki/Washington_County,_Oregon",2026-10-14
+26163,Wayne County,MI,1810,2227,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1820,3574,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1830,6781,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1840,24173,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1850,42756,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1860,75547,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1870,119068,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1880,168444,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1890,257114,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1900,348793,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1910,531591,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1920,1177645,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1930,1888946,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1940,2015623,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1950,2435235,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1960,2666297,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1970,2666751,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1980,2337843,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,1990,2111687,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,2000,2061162,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,2010,1820584,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+26163,Wayne County,MI,2020,1793561,"https://en.wikipedia.org/wiki/Wayne_County,_Michigan",2026-10-14
+47157,Shelby County,TN,1820,364,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1830,5648,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1840,14721,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1850,31157,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1860,48092,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1870,76378,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1880,78430,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1890,112740,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1900,153557,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1910,191439,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1920,223216,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1930,306482,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1940,358250,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1950,482393,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1960,627019,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1970,722014,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1980,777113,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,1990,826330,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,2000,897472,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,2010,927644,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+47157,Shelby County,TN,2020,929744,"https://en.wikipedia.org/wiki/Shelby_County,_Tennessee",2026-10-14
+21111,Jefferson County,KY,1790,4765,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1800,8754,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1810,13399,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1820,20768,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1830,23979,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1840,36346,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1850,59831,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1860,89404,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1870,118953,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1880,146010,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1890,188598,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1900,232549,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1910,262920,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1920,286369,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1930,355350,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1940,385392,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1950,484615,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1960,610947,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1970,695055,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1980,685004,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,1990,664937,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,2000,693604,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,2010,741096,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+21111,Jefferson County,KY,2020,782969,"https://en.wikipedia.org/wiki/Jefferson_County,_Kentucky",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1790,38937,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1800,59030,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1810,75780,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1820,96201,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1830,120870,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1840,134379,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1850,210646,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1860,54135,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1870,63387,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1880,83336,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1890,72909,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1900,90755,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1910,122349,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1920,74817,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1930,124565,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1940,155825,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1950,270273,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1960,492428,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1970,621077,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1980,655615,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,1990,692134,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,2000,754292,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,2010,805029,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+24005,Baltimore County (incl. Baltimore town/city before 1860),MD,2020,854535,"https://en.wikipedia.org/wiki/Baltimore_County,_Maryland",2026-10-14
+55079,Milwaukee County,WI,1850,31077,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,1860,62518,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,1870,89930,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,1880,138537,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,1890,236101,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,1900,330017,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,1910,433187,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,1920,539449,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,1930,725263,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,1940,766885,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,1950,871047,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,1960,1036041,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,1970,1054063,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,1980,964988,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,1990,959275,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,2000,940164,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,2010,947735,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+55079,Milwaukee County,WI,2020,939489,"https://en.wikipedia.org/wiki/Milwaukee_County,_Wisconsin",2026-10-14
+35001,Bernalillo County,NM,1850,7751,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,1860,8769,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,1870,7591,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,1880,17225,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,1890,20913,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,1900,28630,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,1910,23606,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,1920,29855,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,1930,45430,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,1940,69391,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,1950,145673,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,1960,262199,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,1970,315774,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,1980,419700,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,1990,480577,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,2000,556678,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,2010,662564,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+35001,Bernalillo County,NM,2020,676444,"https://en.wikipedia.org/wiki/Bernalillo_County,_New_Mexico",2026-10-14
+04019,Pima County,AZ,1870,5716,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+04019,Pima County,AZ,1880,17006,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+04019,Pima County,AZ,1890,12673,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+04019,Pima County,AZ,1900,14689,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+04019,Pima County,AZ,1910,22818,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+04019,Pima County,AZ,1920,34680,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+04019,Pima County,AZ,1930,55676,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+04019,Pima County,AZ,1940,72838,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+04019,Pima County,AZ,1950,141216,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+04019,Pima County,AZ,1960,265660,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+04019,Pima County,AZ,1970,351667,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+04019,Pima County,AZ,1980,531443,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+04019,Pima County,AZ,1990,666880,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+04019,Pima County,AZ,2000,843746,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+04019,Pima County,AZ,2010,980263,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+04019,Pima County,AZ,2020,1043433,"https://en.wikipedia.org/wiki/Pima_County,_Arizona",2026-10-14
+06019,Fresno County,CA,1860,4605,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,1870,6336,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,1880,9478,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,1890,32026,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,1900,37862,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,1910,75657,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,1920,128779,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,1930,144379,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,1940,178565,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,1950,276515,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,1960,365945,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,1970,413053,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,1980,514621,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,1990,667490,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,2000,799407,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,2010,930450,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06019,Fresno County,CA,2020,1008654,"https://en.wikipedia.org/wiki/Fresno_County,_California",2026-10-14
+06067,Sacramento County,CA,1850,9087,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,1860,24142,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,1870,26830,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,1880,34390,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,1890,40339,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,1900,45915,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,1910,67806,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,1920,91029,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,1930,141999,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,1940,170333,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,1950,277140,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,1960,502778,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,1970,631498,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,1980,783381,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,1990,1041219,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,2000,1223499,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,2010,1418788,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+06067,Sacramento County,CA,2020,1585055,"https://en.wikipedia.org/wiki/Sacramento_County,_California",2026-10-14
+29095,Jackson County,MO,1830,2823,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1840,7612,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1850,14000,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1860,22913,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1870,65011,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1880,82825,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1890,160510,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1900,195193,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1910,283522,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1920,367846,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1930,470454,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1940,477828,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1950,541035,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1960,622732,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1970,654558,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1980,629266,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,1990,633232,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,2000,654880,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,2010,674158,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+29095,Jackson County,MO,2020,717204,"https://en.wikipedia.org/wiki/Jackson_County,_Missouri",2026-10-14
+13121,Fulton County,GA,1860,14427,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,1870,33446,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,1880,49137,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,1890,84655,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,1900,117363,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,1910,177733,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,1920,232606,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,1930,318587,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,1940,392886,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,1950,473572,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,1960,556326,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,1970,607592,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,1980,589904,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,1990,648951,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,2000,816006,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,2010,920581,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13121,Fulton County,GA,2020,1066710,"https://en.wikipedia.org/wiki/Fulton_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1830,10042,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1840,10467,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1850,14328,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1860,7806,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1870,10014,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1880,14497,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1890,17189,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1900,21112,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1910,27881,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1920,44051,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1930,70278,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1940,86942,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1950,136395,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1960,256782,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1970,415387,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1980,483024,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,1990,545837,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,2000,665865,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,2010,691893,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+13089,DeKalb County,GA,2020,764382,"https://en.wikipedia.org/wiki/DeKalb_County,_Georgia",2026-10-14
+31055,Douglas County,NE,1860,4328,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,1870,19982,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,1880,37645,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,1890,158008,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,1900,140590,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,1910,168546,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,1920,204524,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,1930,232982,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,1940,247562,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,1950,281020,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,1960,343490,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,1970,389455,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,1980,397038,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,1990,416444,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,2000,463585,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,2010,517110,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+31055,Douglas County,NE,2020,584526,"https://en.wikipedia.org/wiki/Douglas_County,_Nebraska",2026-10-14
+08041,El Paso County,CO,1870,987,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+08041,El Paso County,CO,1880,7949,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+08041,El Paso County,CO,1890,21239,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+08041,El Paso County,CO,1900,31602,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+08041,El Paso County,CO,1910,43321,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+08041,El Paso County,CO,1920,44027,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+08041,El Paso County,CO,1930,49570,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+08041,El Paso County,CO,1940,54025,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+08041,El Paso County,CO,1950,74523,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+08041,El Paso County,CO,1960,143742,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+08041,El Paso County,CO,1970,235972,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+08041,El Paso County,CO,1980,309424,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+08041,El Paso County,CO,1990,397014,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+08041,El Paso County,CO,2000,516929,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+08041,El Paso County,CO,2010,622263,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+08041,El Paso County,CO,2020,730395,"https://en.wikipedia.org/wiki/El_Paso_County,_Colorado",2026-10-14
+37183,Wake County,NC,1790,10192,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1800,13437,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1810,17096,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1820,20102,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1830,20398,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1840,21118,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1850,24888,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1860,28627,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1870,35617,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1880,47939,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1890,49207,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1900,54626,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1910,63229,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1920,75155,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1930,94757,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1940,109544,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1950,136450,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1960,169082,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1970,228453,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1980,301327,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,1990,423380,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,2000,627846,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,2010,900993,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+37183,Wake County,NC,2020,1129410,"https://en.wikipedia.org/wiki/Wake_County,_North_Carolina",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1790,7793,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1800,8859,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1810,9498,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1820,8768,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1830,9102,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1840,7285,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1850,7669,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1860,7714,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1870,8273,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1880,9394,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1890,9510,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1900,11192,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1910,11526,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1920,13626,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1930,16282,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1940,19984,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1950,42277,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+VA_PRINCESS_ANNE,"Princess Anne County (merged into Virginia Beach, 1963)",VA,1960,77127,"https://en.wikipedia.org/wiki/Princess_Anne_County,_Virginia",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1840,446,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1850,159,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1860,83,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1870,85,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1880,257,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1890,861,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1900,4955,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1910,11933,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1920,42753,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1930,142955,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1940,267739,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1950,495084,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1960,935047,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1970,1267792,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1980,1625781,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,1990,1937094,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,2000,2253362,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,2010,2496435,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+12086,Miami-Dade County (Dade County),FL,2020,2701767,"https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida",2026-10-14
+06001,Alameda County,CA,1850,5886,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,1860,8927,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,1870,24237,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,1880,62976,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,1890,93864,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,1900,130197,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,1910,246131,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,1920,344177,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,1930,474883,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,1940,513011,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,1950,740315,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,1960,908209,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,1970,1073184,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,1980,1105379,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,1990,1279182,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,2000,1443741,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,2010,1510271,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+06001,Alameda County,CA,2020,1682353,"https://en.wikipedia.org/wiki/Alameda_County,_California",2026-10-14
+27053,Hennepin County,MN,1860,12849,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,1870,31566,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,1880,67013,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,1890,185294,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,1900,228340,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,1910,333480,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,1920,415419,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,1930,517785,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,1940,568899,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,1950,676579,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,1960,842854,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,1970,960080,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,1980,941411,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,1990,1032431,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,2000,1116200,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,2010,1152425,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+27053,Hennepin County,MN,2020,1281565,"https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota",2026-10-14
+06029,Kern County,CA,1870,2925,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+06029,Kern County,CA,1880,5601,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+06029,Kern County,CA,1890,9808,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+06029,Kern County,CA,1900,16480,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+06029,Kern County,CA,1910,37715,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+06029,Kern County,CA,1920,54843,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+06029,Kern County,CA,1930,82570,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+06029,Kern County,CA,1940,135124,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+06029,Kern County,CA,1950,228309,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+06029,Kern County,CA,1960,291984,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+06029,Kern County,CA,1970,329162,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+06029,Kern County,CA,1980,403089,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+06029,Kern County,CA,1990,543477,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+06029,Kern County,CA,2000,661645,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+06029,Kern County,CA,2010,839631,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+06029,Kern County,CA,2020,909235,"https://en.wikipedia.org/wiki/Kern_County,_California",2026-10-14
+20173,Sedgwick County,KS,1870,1095,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+20173,Sedgwick County,KS,1880,18753,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+20173,Sedgwick County,KS,1890,43626,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+20173,Sedgwick County,KS,1900,44037,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+20173,Sedgwick County,KS,1910,73095,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+20173,Sedgwick County,KS,1920,92234,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+20173,Sedgwick County,KS,1930,136330,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+20173,Sedgwick County,KS,1940,143311,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+20173,Sedgwick County,KS,1950,222290,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+20173,Sedgwick County,KS,1960,343231,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+20173,Sedgwick County,KS,1970,350694,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+20173,Sedgwick County,KS,1980,366531,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+20173,Sedgwick County,KS,1990,403662,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+20173,Sedgwick County,KS,2000,452869,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+20173,Sedgwick County,KS,2010,498365,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+20173,Sedgwick County,KS,2020,523824,"https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas",2026-10-14
+12057,Hillsborough County,FL,1840,452,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,1850,2377,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,1860,2981,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,1870,3216,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,1880,5814,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,1890,14941,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,1900,36013,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,1910,78374,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,1920,88257,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,1930,153519,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,1940,180148,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,1950,249894,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,1960,397788,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,1970,490265,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,1980,646960,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,1990,834054,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,2000,998948,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,2010,1229226,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+12057,Hillsborough County,FL,2020,1459762,"https://en.wikipedia.org/wiki/Hillsborough_County,_Florida",2026-10-14
+22071,Orleans Parish,LA,1820,41351,https://en.wikipedia.org/wiki/New_Orleans,2026-10-14
+22071,Orleans Parish,LA,1830,49826,https://en.wikipedia.org/wiki/New_Orleans,2026-10-14
+22071,Orleans Parish,LA,1840,102193,https://en.wikipedia.org/wiki/New_Orleans,2026-10-14
+22071,Orleans Parish,LA,1850,119460,https://en.wikipedia.org/wiki/New_Orleans,2026-10-14
+22071,Orleans Parish,LA,1860,174491,https://en.wikipedia.org/wiki/New_Orleans,2026-10-14
+22071,Orleans Parish,LA,1870,191418,https://en.wikipedia.org/wiki/New_Orleans,2026-10-14
+39035,Cuyahoga County,OH,1810,1459,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1820,6328,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1830,10373,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1840,26506,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1850,48099,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1860,78033,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1870,132010,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1880,196943,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1890,309970,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1900,439120,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1910,637425,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1920,943495,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1930,1201455,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1940,1217250,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1950,1389532,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1960,1647895,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1970,1721300,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1980,1498400,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,1990,1412140,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,2000,1393978,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,2010,1280122,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+39035,Cuyahoga County,OH,2020,1264817,"https://en.wikipedia.org/wiki/Cuyahoga_County,_Ohio",2026-10-14
+06059,Orange County,CA,1890,13589,"https://en.wikipedia.org/wiki/Orange_County,_California",2026-10-14
+06059,Orange County,CA,1900,19696,"https://en.wikipedia.org/wiki/Orange_County,_California",2026-10-14
+06059,Orange County,CA,1910,34436,"https://en.wikipedia.org/wiki/Orange_County,_California",2026-10-14
+06059,Orange County,CA,1920,61375,"https://en.wikipedia.org/wiki/Orange_County,_California",2026-10-14
+06059,Orange County,CA,1930,118674,"https://en.wikipedia.org/wiki/Orange_County,_California",2026-10-14
+06059,Orange County,CA,1940,130760,"https://en.wikipedia.org/wiki/Orange_County,_California",2026-10-14
+06059,Orange County,CA,1950,216224,"https://en.wikipedia.org/wiki/Orange_County,_California",2026-10-14
+06059,Orange County,CA,1960,703925,"https://en.wikipedia.org/wiki/Orange_County,_California",2026-10-14
+06059,Orange County,CA,1970,1420386,"https://en.wikipedia.org/wiki/Orange_County,_California",2026-10-14
+06059,Orange County,CA,1980,1932709,"https://en.wikipedia.org/wiki/Orange_County,_California",2026-10-14
+06059,Orange County,CA,1990,2410556,"https://en.wikipedia.org/wiki/Orange_County,_California",2026-10-14
+06059,Orange County,CA,2000,2846289,"https://en.wikipedia.org/wiki/Orange_County,_California",2026-10-14
+06059,Orange County,CA,2010,3010232,"https://en.wikipedia.org/wiki/Orange_County,_California",2026-10-14
+06059,Orange County,CA,2020,3186989,"https://en.wikipedia.org/wiki/Orange_County,_California",2026-10-14
+21067,Fayette County,KY,1790,18410,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1800,14028,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1810,21370,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1820,23250,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1830,25098,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1840,22194,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1850,22735,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1860,22599,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1870,26656,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1880,29023,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1890,35698,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1900,42071,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1910,47715,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1920,54664,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1930,68543,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1940,78899,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1950,100746,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1960,131906,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1970,174323,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1980,204165,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,1990,225366,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,2000,260512,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,2010,295803,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+21067,Fayette County,KY,2020,322570,"https://en.wikipedia.org/wiki/Fayette_County,_Kentucky",2026-10-14
+06077,San Joaquin County,CA,1850,3647,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,1860,9435,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,1870,21050,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,1880,24349,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,1890,28629,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,1900,35452,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,1910,50731,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,1920,79905,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,1930,102940,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,1940,134207,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,1950,200750,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,1960,249989,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,1970,290208,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,1980,347342,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,1990,480628,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,2000,563598,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,2010,685306,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+06077,San Joaquin County,CA,2020,779233,"https://en.wikipedia.org/wiki/San_Joaquin_County,_California",2026-10-14
+48355,Nueces County,TX,1850,698,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,1860,2906,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,1870,3975,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,1880,7673,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,1890,8093,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,1900,10439,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,1910,21955,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,1920,22807,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,1930,51779,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,1940,92661,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,1950,165471,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,1960,221573,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,1970,237544,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,1980,268215,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,1990,291145,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,2000,313645,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,2010,340223,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+48355,Nueces County,TX,2020,353178,"https://en.wikipedia.org/wiki/Nueces_County,_Texas",2026-10-14
+06071,San Bernardino County,CA,1860,5551,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,1870,3988,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,1880,7786,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,1890,25497,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,1900,27929,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,1910,56706,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,1920,73401,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,1930,133900,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,1940,161108,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,1950,281642,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,1960,503591,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,1970,684072,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,1980,895016,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,1990,1418380,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,2000,1709434,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,2010,2035210,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+06071,San Bernardino County,CA,2020,2181654,"https://en.wikipedia.org/wiki/San_Bernardino_County,_California",2026-10-14
+34013,Essex County,NJ,1790,17785,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1800,22269,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1810,25984,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1820,30793,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1830,41911,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1840,44621,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1850,73950,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1860,98877,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1870,143839,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1880,189929,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1890,256098,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1900,359053,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1910,512886,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1920,652089,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1930,833513,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1940,837340,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1950,905949,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1960,923545,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1970,932526,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1980,851116,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,1990,778206,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,2000,793633,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,2010,783969,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+34013,Essex County,NJ,2020,863728,"https://en.wikipedia.org/wiki/Essex_County,_New_Jersey",2026-10-14
+27123,Ramsey County,MN,1850,2227,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,1860,12150,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,1870,23085,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,1880,45890,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,1890,139796,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,1900,170554,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,1910,223675,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,1920,244554,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,1930,286721,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,1940,309935,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,1950,355332,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,1960,422525,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,1970,476255,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,1980,459784,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,1990,485765,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,2000,511035,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,2010,508640,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+27123,Ramsey County,MN,2020,552352,"https://en.wikipedia.org/wiki/Ramsey_County,_Minnesota",2026-10-14
+39061,Hamilton County,OH,1800,14692,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1810,15258,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1820,31764,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1830,52317,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1840,80145,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1850,156844,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1860,216410,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1870,260370,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1880,313374,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1890,374573,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1900,409479,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1910,460732,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1920,493678,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1930,589356,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1940,621987,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1950,723952,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1960,864121,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1970,924018,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1980,873224,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,1990,866218,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,2000,845303,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,2010,802374,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+39061,Hamilton County,OH,2020,830639,"https://en.wikipedia.org/wiki/Hamilton_County,_Ohio",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1830,733,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1840,73,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1850,466,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1860,987,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1870,2195,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1880,6618,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1890,12584,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1900,11374,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1910,19107,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1920,19890,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1930,49737,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1940,70074,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1950,114950,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1960,263540,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1970,344311,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1980,471016,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,1990,677491,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,2000,896344,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,2010,1145956,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+12095,Orange County (Mosquito County until 1845),FL,2020,1429908,"https://en.wikipedia.org/wiki/Orange_County,_Florida",2026-10-14
+42003,Allegheny County,PA,1790,10203,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1800,15087,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1810,25317,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1820,34921,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1830,50552,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1840,81235,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1850,138290,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1860,178831,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1870,262204,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1880,355869,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1890,551959,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1900,775058,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1910,1018463,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1920,1185808,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1930,1374410,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1940,1411539,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1950,1515237,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1960,1628587,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1970,1605016,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1980,1450085,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,1990,1336449,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,2000,1281666,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,2010,1223348,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+42003,Allegheny County,PA,2020,1250578,"https://en.wikipedia.org/wiki/Allegheny_County,_Pennsylvania",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1820,10049,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1830,14125,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1840,35979,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1850,104978,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1860,190524,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1870,351189,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1880,31888,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1890,36307,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1900,50040,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1910,82417,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1920,100737,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1930,211593,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1940,274230,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1950,406349,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1960,703532,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1970,951353,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1980,973896,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,1990,993529,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,2000,1016315,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,2010,998954,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+29189,St. Louis County (incl. City of St. Louis through 1870),MO,2020,1004125,"https://en.wikipedia.org/wiki/St._Louis_County,_Missouri",2026-10-14
+37081,Guilford County,NC,1790,7300,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1800,9442,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1810,11420,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1820,14511,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1830,18737,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1840,19175,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1850,19754,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1860,20056,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1870,21736,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1880,23585,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1890,28052,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1900,39074,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1910,60497,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1920,79272,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1930,133010,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1940,153916,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1950,191057,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1960,246520,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1970,288590,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1980,317154,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,1990,347420,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,2000,421048,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,2010,488406,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+37081,Guilford County,NC,2020,541299,"https://en.wikipedia.org/wiki/Guilford_County,_North_Carolina",2026-10-14
+34017,Hudson County,NJ,1840,9483,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,1850,21822,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,1860,62717,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,1870,129067,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,1880,187944,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,1890,275126,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,1900,386048,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,1910,537231,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,1920,629154,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,1930,690730,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,1940,652040,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,1950,647437,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,1960,610734,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,1970,607839,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,1980,556972,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,1990,553099,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,2000,608975,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,2010,634266,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+34017,Hudson County,NJ,2020,724854,"https://en.wikipedia.org/wiki/Hudson_County,_New_Jersey",2026-10-14
+31109,Lancaster County,NE,1860,153,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,1870,7074,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,1880,28090,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,1890,76395,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,1900,64835,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,1910,73793,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,1920,85902,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,1930,100324,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,1940,100585,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,1950,119742,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,1960,155272,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,1970,167972,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,1980,192884,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,1990,213641,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,2000,250291,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,2010,285407,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+31109,Lancaster County,NE,2020,322608,"https://en.wikipedia.org/wiki/Lancaster_County,_Nebraska",2026-10-14
+48085,Collin County,TX,1850,1950,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,1860,9264,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,1870,14013,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,1880,25983,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,1890,36736,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,1900,50087,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,1910,49021,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,1920,49609,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,1930,46180,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,1940,47190,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,1950,41692,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,1960,41247,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,1970,66920,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,1980,144576,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,1990,264036,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,2000,491675,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,2010,782341,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+48085,Collin County,TX,2020,1064465,"https://en.wikipedia.org/wiki/Collin_County,_Texas",2026-10-14
+37063,Durham County,NC,1890,18041,"https://en.wikipedia.org/wiki/Durham_County,_North_Carolina",2026-10-14
+37063,Durham County,NC,1900,26233,"https://en.wikipedia.org/wiki/Durham_County,_North_Carolina",2026-10-14
+37063,Durham County,NC,1910,35276,"https://en.wikipedia.org/wiki/Durham_County,_North_Carolina",2026-10-14
+37063,Durham County,NC,1920,42219,"https://en.wikipedia.org/wiki/Durham_County,_North_Carolina",2026-10-14
+37063,Durham County,NC,1930,67196,"https://en.wikipedia.org/wiki/Durham_County,_North_Carolina",2026-10-14
+37063,Durham County,NC,1940,80244,"https://en.wikipedia.org/wiki/Durham_County,_North_Carolina",2026-10-14
+37063,Durham County,NC,1950,101639,"https://en.wikipedia.org/wiki/Durham_County,_North_Carolina",2026-10-14
+37063,Durham County,NC,1960,111995,"https://en.wikipedia.org/wiki/Durham_County,_North_Carolina",2026-10-14
+37063,Durham County,NC,1970,132681,"https://en.wikipedia.org/wiki/Durham_County,_North_Carolina",2026-10-14
+37063,Durham County,NC,1980,152785,"https://en.wikipedia.org/wiki/Durham_County,_North_Carolina",2026-10-14
+37063,Durham County,NC,1990,181835,"https://en.wikipedia.org/wiki/Durham_County,_North_Carolina",2026-10-14
+37063,Durham County,NC,2000,223314,"https://en.wikipedia.org/wiki/Durham_County,_North_Carolina",2026-10-14
+37063,Durham County,NC,2010,267587,"https://en.wikipedia.org/wiki/Durham_County,_North_Carolina",2026-10-14
+37063,Durham County,NC,2020,324833,"https://en.wikipedia.org/wiki/Durham_County,_North_Carolina",2026-10-14
+36029,Erie County,NY,1830,35719,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1840,62465,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1850,100993,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1860,141971,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1870,178699,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1880,219884,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1890,322981,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1900,433686,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1910,528985,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1920,634688,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1930,762408,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1940,798377,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1950,899238,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1960,1064688,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1970,1113491,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1980,1015472,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,1990,968532,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,2000,950265,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,2010,919040,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36029,Erie County,NY,2020,954236,"https://en.wikipedia.org/wiki/Erie_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1810,8971,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1820,22990,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1830,18482,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1840,31132,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1850,42276,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1860,50399,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1870,50437,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1880,54173,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1890,62491,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1900,74961,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1910,92036,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1920,118705,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1930,149329,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1940,160110,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1950,189992,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1960,242269,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1970,235720,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1980,227354,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,1990,220756,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,2000,219846,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,2010,216469,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+36063,Niagara County (incl. present Erie County until 1821),NY,2020,212666,"https://en.wikipedia.org/wiki/Niagara_County,_New_York",2026-10-14
+39095,Lucas County,OH,1840,9382,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,1850,12363,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,1860,25831,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,1870,46722,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,1880,67377,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,1890,102296,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,1900,153559,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,1910,192728,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,1920,275721,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,1930,347709,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,1940,344333,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,1950,395551,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,1960,456931,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,1970,484370,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,1980,471741,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,1990,462361,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,2000,455054,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,2010,441815,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+39095,Lucas County,OH,2020,431279,"https://en.wikipedia.org/wiki/Lucas_County,_Ohio",2026-10-14
+55025,Dane County,WI,1840,314,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,1850,16639,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,1860,43922,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,1870,53096,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,1880,53233,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,1890,59578,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,1900,69435,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,1910,77435,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,1920,89432,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,1930,112737,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,1940,130660,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,1950,169357,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,1960,222095,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,1970,290272,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,1980,323545,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,1990,367085,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,2000,426526,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,2010,488073,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+55025,Dane County,WI,2020,561504,"https://en.wikipedia.org/wiki/Dane_County,_Wisconsin",2026-10-14
+32031,Washoe County,NV,1870,3091,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+32031,Washoe County,NV,1880,5664,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+32031,Washoe County,NV,1890,6437,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+32031,Washoe County,NV,1900,9141,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+32031,Washoe County,NV,1910,17434,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+32031,Washoe County,NV,1920,18627,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+32031,Washoe County,NV,1930,27158,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+32031,Washoe County,NV,1940,32476,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+32031,Washoe County,NV,1950,50205,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+32031,Washoe County,NV,1960,84743,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+32031,Washoe County,NV,1970,121068,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+32031,Washoe County,NV,1980,193623,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+32031,Washoe County,NV,1990,254667,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+32031,Washoe County,NV,2000,339486,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+32031,Washoe County,NV,2010,421407,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+32031,Washoe County,NV,2020,486492,"https://en.wikipedia.org/wiki/Washoe_County,_Nevada",2026-10-14
+18003,Allen County,IN,1830,996,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1840,5942,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1850,16919,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1860,29328,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1870,43494,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1880,54763,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1890,66689,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1900,77270,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1910,93386,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1920,114303,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1930,146743,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1940,155084,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1950,183722,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1960,232196,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1970,280455,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1980,294335,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,1990,300836,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,2000,331849,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,2010,355329,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+18003,Allen County,IN,2020,385410,"https://en.wikipedia.org/wiki/Allen_County,_Indiana",2026-10-14
+48303,Lubbock County,TX,1880,25,"https://en.wikipedia.org/wiki/Lubbock_County,_Texas",2026-10-14
+48303,Lubbock County,TX,1890,33,"https://en.wikipedia.org/wiki/Lubbock_County,_Texas",2026-10-14
+48303,Lubbock County,TX,1900,293,"https://en.wikipedia.org/wiki/Lubbock_County,_Texas",2026-10-14
+48303,Lubbock County,TX,1910,3624,"https://en.wikipedia.org/wiki/Lubbock_County,_Texas",2026-10-14
+48303,Lubbock County,TX,1920,11096,"https://en.wikipedia.org/wiki/Lubbock_County,_Texas",2026-10-14
+48303,Lubbock County,TX,1930,39104,"https://en.wikipedia.org/wiki/Lubbock_County,_Texas",2026-10-14
+48303,Lubbock County,TX,1940,51782,"https://en.wikipedia.org/wiki/Lubbock_County,_Texas",2026-10-14
+48303,Lubbock County,TX,1950,101048,"https://en.wikipedia.org/wiki/Lubbock_County,_Texas",2026-10-14
+48303,Lubbock County,TX,1960,156271,"https://en.wikipedia.org/wiki/Lubbock_County,_Texas",2026-10-14
+48303,Lubbock County,TX,1970,179295,"https://en.wikipedia.org/wiki/Lubbock_County,_Texas",2026-10-14
+48303,Lubbock County,TX,1980,211651,"https://en.wikipedia.org/wiki/Lubbock_County,_Texas",2026-10-14
+48303,Lubbock County,TX,1990,222636,"https://en.wikipedia.org/wiki/Lubbock_County,_Texas",2026-10-14
+48303,Lubbock County,TX,2000,242628,"https://en.wikipedia.org/wiki/Lubbock_County,_Texas",2026-10-14
+48303,Lubbock County,TX,2010,278831,"https://en.wikipedia.org/wiki/Lubbock_County,_Texas",2026-10-14
+48303,Lubbock County,TX,2020,310639,"https://en.wikipedia.org/wiki/Lubbock_County,_Texas",2026-10-14
+48479,Webb County,TX,1860,1397,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,1870,2615,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,1880,5273,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,1890,14842,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,1900,21851,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,1910,22503,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,1920,29152,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,1930,42128,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,1940,45916,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,1950,56141,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,1960,64791,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,1970,72859,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,1980,99258,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,1990,133239,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,2000,193117,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,2010,250304,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+48479,Webb County,TX,2020,267114,"https://en.wikipedia.org/wiki/Webb_County,_Texas",2026-10-14
+37067,Forsyth County,NC,1850,11168,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,1860,12692,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,1870,13050,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,1880,18070,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,1890,28434,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,1900,35261,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,1910,47311,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,1920,77269,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,1930,111681,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,1940,126475,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,1950,146135,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,1960,189428,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,1970,214348,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,1980,243683,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,1990,265878,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,2000,306067,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,2010,350670,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+37067,Forsyth County,NC,2020,382590,"https://en.wikipedia.org/wiki/Forsyth_County,_North_Carolina",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1790,14524,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1800,19419,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1810,22872,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1820,23936,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1830,24806,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1840,27569,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1850,33036,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1860,36227,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1870,46702,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1880,58657,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1890,77038,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1900,50780,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1910,52744,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1920,57358,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1930,30082,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1940,35828,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1950,99537,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+VA_NORFOLK_COUNTY,"Norfolk County (incl. Norfolk and Portsmouth cities through 1890; merged into Chesapeake, 1963)",VA,1960,51612,"https://en.wikipedia.org/wiki/Norfolk_County,_Virginia",2026-10-14
+16001,Ada County,ID,1870,2675,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+16001,Ada County,ID,1880,4674,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+16001,Ada County,ID,1890,8368,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+16001,Ada County,ID,1900,11559,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+16001,Ada County,ID,1910,29088,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+16001,Ada County,ID,1920,35213,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+16001,Ada County,ID,1930,37925,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+16001,Ada County,ID,1940,50401,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+16001,Ada County,ID,1950,70649,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+16001,Ada County,ID,1960,93460,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+16001,Ada County,ID,1970,112230,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+16001,Ada County,ID,1980,173036,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+16001,Ada County,ID,1990,205775,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+16001,Ada County,ID,2000,300904,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+16001,Ada County,ID,2010,392365,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+16001,Ada County,ID,2020,494967,"https://en.wikipedia.org/wiki/Ada_County,_Idaho",2026-10-14
+53063,Spokane County,WA,1860,996,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,1870,2000,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,1880,4262,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,1890,37487,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,1900,57542,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,1910,139404,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,1920,141289,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,1930,150477,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,1940,164652,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,1950,221561,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,1960,278333,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,1970,287487,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,1980,341835,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,1990,361364,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,2000,417939,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,2010,471221,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+53063,Spokane County,WA,2020,539339,"https://en.wikipedia.org/wiki/Spokane_County,_Washington",2026-10-14
+22033,East Baton Rouge Parish,LA,1810,1468,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1820,5220,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1830,6698,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1840,8133,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1850,11977,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1860,16046,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1870,17816,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1880,19966,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1890,25922,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1900,31153,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1910,34580,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1920,44513,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1930,68208,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1940,88415,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1950,158236,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1960,230058,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1970,285167,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1980,366191,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,1990,380105,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,2000,412852,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,2010,440171,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+22033,East Baton Rouge Parish,LA,2020,456781,"https://en.wikipedia.org/wiki/East_Baton_Rouge_Parish,_Louisiana",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1790,12000,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1800,14886,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1810,19680,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1820,23667,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1830,28797,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1840,33076,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1850,43572,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1860,61616,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1870,66179,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1880,82703,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1890,103394,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1900,30062,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1910,23437,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1920,18972,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1930,30310,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1940,41960,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1950,57340,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1960,117339,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1970,154364,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1980,180735,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,1990,217881,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,2000,262300,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,2010,306935,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+51087,Henrico County (incl. City of Richmond through 1890),VA,2020,334389,"https://en.wikipedia.org/wiki/Henrico_County,_Virginia",2026-10-14
+06065,Riverside County,CA,1900,17897,"https://en.wikipedia.org/wiki/Riverside_County,_California",2026-10-14
+06065,Riverside County,CA,1910,34696,"https://en.wikipedia.org/wiki/Riverside_County,_California",2026-10-14
+06065,Riverside County,CA,1920,50297,"https://en.wikipedia.org/wiki/Riverside_County,_California",2026-10-14
+06065,Riverside County,CA,1930,81024,"https://en.wikipedia.org/wiki/Riverside_County,_California",2026-10-14
+06065,Riverside County,CA,1940,105524,"https://en.wikipedia.org/wiki/Riverside_County,_California",2026-10-14
+06065,Riverside County,CA,1950,170046,"https://en.wikipedia.org/wiki/Riverside_County,_California",2026-10-14
+06065,Riverside County,CA,1960,306191,"https://en.wikipedia.org/wiki/Riverside_County,_California",2026-10-14
+06065,Riverside County,CA,1970,459074,"https://en.wikipedia.org/wiki/Riverside_County,_California",2026-10-14
+06065,Riverside County,CA,1980,663166,"https://en.wikipedia.org/wiki/Riverside_County,_California",2026-10-14
+06065,Riverside County,CA,1990,1170413,"https://en.wikipedia.org/wiki/Riverside_County,_California",2026-10-14
+06065,Riverside County,CA,2000,1545387,"https://en.wikipedia.org/wiki/Riverside_County,_California",2026-10-14
+06065,Riverside County,CA,2010,2189641,"https://en.wikipedia.org/wiki/Riverside_County,_California",2026-10-14
+06065,Riverside County,CA,2020,2418185,"https://en.wikipedia.org/wiki/Riverside_County,_California",2026-10-14

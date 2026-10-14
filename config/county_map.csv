@@ -1,0 +1,124 @@
+city_id,start_year,end_year,county_keys,county_label,basis,note
+albuquerque_nm,1790,2020,35001,"Bernalillo County, NM",county,
+arlington_tx,1790,2020,48439,"Tarrant County, TX",county,
+atlanta_ga,1790,1850,13089,"DeKalb County, GA",county,Fulton County was created from DeKalb County in 1853.
+atlanta_ga,1860,2020,13121,"Fulton County, GA",county,
+austin_tx,1790,2020,48453,"Travis County, TX",county,
+bakersfield_ca,1790,2020,06029,"Kern County, CA",county,
+baltimore_md,1790,1850,24005,"Baltimore County, MD (incl. city)",county,Baltimore County figures before 1860 include the town/city of Baltimore.
+baltimore_md,1860,1890,COTERMINOUS,"Baltimore City (independent city), MD",coterminous,Independent city since 1851; county-equivalent population equals city population.
+baltimore_md,1900,2020,24510,"Baltimore City (independent city), MD",county,
+boston_ma,1790,2020,25025,"Suffolk County, MA",county,
+charlotte_nc,1790,2020,37119,"Mecklenburg County, NC",county,
+chicago_il,1790,2020,17031,"Cook County, IL",county,
+colorado_springs_co,1790,2020,08041,"El Paso County, CO",county,
+columbus_oh,1790,2020,39049,"Franklin County, OH",county,
+dallas_tx,1790,2020,48113,"Dallas County, TX",county,
+denver_co,1790,1900,08005,"Arapahoe County, CO",county,Denver lay in Arapahoe County until the City and County of Denver was created in 1902.
+denver_co,1910,2020,08031,"City and County of Denver, CO",county,
+detroit_mi,1790,2020,26163,"Wayne County, MI",county,
+el_paso_tx,1790,2020,48141,"El Paso County, TX",county,
+fort_worth_tx,1790,2020,48439,"Tarrant County, TX",county,
+fresno_ca,1790,2020,06019,"Fresno County, CA",county,
+houston_tx,1790,2020,48201,"Harris County, TX",county,
+indianapolis_in,1790,2020,18097,"Marion County, IN",county,
+jacksonville_fl,1790,2020,12031,"Duval County, FL",county,
+kansas_city_mo,1790,2020,29095,"Jackson County, MO",county,
+las_vegas_nv,1790,2020,32003,"Clark County, NV",county,
+long_beach_ca,1790,2020,06037,"Los Angeles County, CA",county,
+los_angeles_ca,1790,2020,06037,"Los Angeles County, CA",county,
+louisville_ky,1790,2020,21111,"Jefferson County, KY",county,
+memphis_tn,1790,2020,47157,"Shelby County, TN",county,
+mesa_az,1790,2020,04013,"Maricopa County, AZ",county,
+miami_fl,1790,2020,12086,"Miami-Dade (Dade) County, FL",county,
+milwaukee_wi,1790,2020,55079,"Milwaukee County, WI",county,
+minneapolis_mn,1790,2020,27053,"Hennepin County, MN",county,
+nashville_tn,1790,2020,47037,"Davidson County, TN",county,
+new_york_ny,1790,1890,COTERMINOUS,"New York County, NY",coterminous,Pre-1898 City of New York and New York County shared the same boundaries; county population set equal to city population.
+new_york_ny,1900,2020,36061;36047;36081;36005;36085,"Five boroughs (New York, Kings, Queens, Bronx, Richmond counties), NY",sum,Bronx County created 1914; in 1900-1910 the Bronx is counted within New York County.
+oakland_ca,1790,2020,06001,"Alameda County, CA",county,
+oklahoma_city_ok,1790,2020,40109,"Oklahoma County, OK",county,
+omaha_ne,1790,2020,31055,"Douglas County, NE",county,
+philadelphia_pa,1790,2020,42101,"Philadelphia County, PA",county,
+phoenix_az,1790,2020,04013,"Maricopa County, AZ",county,
+portland_or,1790,1850,41067,"Washington County, OR",county,Multnomah County was created in 1854 from Washington and Clackamas counties.
+portland_or,1860,2020,41051,"Multnomah County, OR",county,
+raleigh_nc,1790,2020,37183,"Wake County, NC",county,
+sacramento_ca,1790,2020,06067,"Sacramento County, CA",county,
+san_antonio_tx,1790,2020,48029,"Bexar County, TX",county,
+san_diego_ca,1790,2020,06073,"San Diego County, CA",county,
+san_francisco_ca,1790,1850,06075,"San Francisco County, CA",county,1850 returns destroyed; no county figure.
+san_francisco_ca,1860,1890,COTERMINOUS,"City and County of San Francisco, CA",coterminous,City and county coterminous since 1856; county population set equal to city population.
+san_francisco_ca,1900,2020,06075,"City and County of San Francisco, CA",county,
+san_jose_ca,1790,2020,06085,"Santa Clara County, CA",county,
+seattle_wa,1790,2020,53033,"King County, WA",county,
+tucson_az,1790,2020,04019,"Pima County, AZ",county,
+tulsa_ok,1790,2020,40143,"Tulsa County, OK",county,
+virginia_beach_va,1790,1950,VA_PRINCESS_ANNE,"Princess Anne County, VA",county,
+virginia_beach_va,1960,1960,VA_PRINCESS_ANNE;51810,"Princess Anne County + Virginia Beach city, VA",sum,In 1960 Virginia Beach was a small independent city (since 1952) beside Princess Anne County; the two merged in 1963. The comparator is their combined population (the territory of today's Virginia Beach).
+virginia_beach_va,1970,2020,51810,"Virginia Beach city (independent city), VA",county,
+washington_dc,1790,2020,11001,District of Columbia,county,
+wichita_ks,1790,2020,20173,"Sedgwick County, KS",county,
+anaheim_ca,1790,1880,06037,"Los Angeles County, CA",county,Orange County was created from Los Angeles County in 1889.
+anaheim_ca,1890,2020,06059,"Orange County, CA",county,
+aurora_co,1790,2020,08005,"Arapahoe County, CO",county,Arapahoe County before 1902 also contained Denver and present-day Adams County.
+baton_rouge_la,1790,2020,22033,"East Baton Rouge Parish, LA",county,
+boise_id,1790,2020,16001,"Ada County, ID",county,
+buffalo_ny,1790,1820,36063,"Niagara County, NY",county,Erie County was created from Niagara County in 1821.
+buffalo_ny,1830,2020,36029,"Erie County, NY",county,
+chandler_az,1790,2020,04013,"Maricopa County, AZ",county,
+chesapeake_va,1790,1960,VA_NORFOLK_COUNTY,"Norfolk County, VA (predecessor)",county,Norfolk County figures through 1890 include the cities of Norfolk and Portsmouth; its 1900-1960 changes reflect annexations by those cities.
+chesapeake_va,1970,2020,51550,"Chesapeake City (independent city), VA",county,
+chula_vista_ca,1790,2020,06073,"San Diego County, CA",county,
+cincinnati_oh,1790,2020,39061,"Hamilton County, OH",county,
+cleveland_oh,1790,2020,39035,"Cuyahoga County, OH",county,
+corpus_christi_tx,1790,2020,48355,"Nueces County, TX",county,
+durham_nc,1790,2020,37063,"Durham County, NC",county,
+fort_wayne_in,1790,2020,18003,"Allen County, IN",county,
+fremont_ca,1790,2020,06001,"Alameda County, CA",county,
+garland_tx,1790,2020,48113,"Dallas County, TX",county,
+gilbert_az,1790,2020,04013,"Maricopa County, AZ",county,
+glendale_az,1790,2020,04013,"Maricopa County, AZ",county,
+greensboro_nc,1790,2020,37081,"Guilford County, NC",county,
+henderson_nv,1790,2020,32003,"Clark County, NV",county,
+hialeah_fl,1790,2020,12086,"Miami-Dade (Dade) County, FL",county,
+irvine_ca,1790,1880,06037,"Los Angeles County, CA",county,Orange County was created from Los Angeles County in 1889.
+irvine_ca,1890,2020,06059,"Orange County, CA",county,
+irving_tx,1790,2020,48113,"Dallas County, TX",county,
+jersey_city_nj,1790,2020,34017,"Hudson County, NJ",county,
+laredo_tx,1790,2020,48479,"Webb County, TX",county,
+lexington_ky,1790,2020,21067,"Fayette County, KY",county,
+lincoln_ne,1790,2020,31109,"Lancaster County, NE",county,
+lubbock_tx,1790,2020,48303,"Lubbock County, TX",county,
+madison_wi,1790,2020,55025,"Dane County, WI",county,
+new_orleans_la,1790,1870,22071,"Orleans Parish, LA",county,
+new_orleans_la,1880,1890,COTERMINOUS,"Orleans Parish, LA",coterminous,City coextensive with Orleans Parish; parish value set equal to city.
+new_orleans_la,1900,2020,22071,"Orleans Parish, LA",county,
+newark_nj,1790,2020,34013,"Essex County, NJ",county,
+norfolk_va,1790,1890,VA_NORFOLK_COUNTY,"Norfolk County, VA (incl. Norfolk and Portsmouth)",county,Norfolk County figures through 1890 include the cities of Norfolk and Portsmouth.
+norfolk_va,1900,2020,51710,"Norfolk City (independent city), VA",county,
+north_las_vegas_nv,1790,2020,32003,"Clark County, NV",county,
+orlando_fl,1790,2020,12095,"Orange County, FL",county,
+pittsburgh_pa,1790,2020,42003,"Allegheny County, PA",county,
+plano_tx,1790,2020,48085,"Collin County, TX",county,
+reno_nv,1790,2020,32031,"Washoe County, NV",county,
+richmond_va,1790,1890,51087,"Henrico County, VA (incl. Richmond)",county,Henrico County figures through 1890 include the City of Richmond.
+richmond_va,1900,2020,51760,"Richmond City (independent city), VA",county,
+riverside_ca,1790,1890,06071,"San Bernardino County, CA",county,Riverside County was created from San Bernardino and San Diego counties in 1893.
+riverside_ca,1900,2020,06065,"Riverside County, CA",county,
+san_bernardino_ca,1790,2020,06071,"San Bernardino County, CA",county,
+santa_ana_ca,1790,1880,06037,"Los Angeles County, CA",county,Orange County was created from Los Angeles County in 1889.
+santa_ana_ca,1890,2020,06059,"Orange County, CA",county,
+santa_clarita_ca,1790,2020,06037,"Los Angeles County, CA",county,
+scottsdale_az,1790,2020,04013,"Maricopa County, AZ",county,
+spokane_wa,1790,2020,53063,"Spokane County, WA",county,
+st_louis_mo,1790,1870,29189,"St. Louis County, MO (incl. city)",county,St. Louis County figures through 1870 include the City of St. Louis.
+st_louis_mo,1880,1890,COTERMINOUS,"St. Louis City (independent city), MO",coterminous,Independent city since 1876; county-equivalent population equals city population.
+st_louis_mo,1900,2020,29510,"St. Louis City (independent city), MO",county,
+st_paul_mn,1790,2020,27123,"Ramsey County, MN",county,
+st_petersburg_fl,1790,1910,12057,"Hillsborough County, FL",county,Pinellas County was created from Hillsborough County in 1912.
+st_petersburg_fl,1920,2020,12103,"Pinellas County, FL",county,
+stockton_ca,1790,2020,06077,"San Joaquin County, CA",county,
+tampa_fl,1790,2020,12057,"Hillsborough County, FL",county,
+toledo_oh,1790,2020,39095,"Lucas County, OH",county,
+winston_salem_nc,1790,2020,37067,"Forsyth County, NC",county,

@@ -1,0 +1,2 @@
+city_id,year,city_pop,reason
+madison_wi,1840,,"Source value (1,500) is a non-census estimate exceeding the 1840 census count for all of Dane County (314); set to missing."

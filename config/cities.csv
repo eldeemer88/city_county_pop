@@ -1,0 +1,101 @@
+rank,city_id,city,state,cesta_cityst,pop_2020,extends_beyond_principal_county,city_notes
+1,new_york_ny,New York,NY,"New York City, NY",8804190,no,"Pre-1898 figures are the pre-consolidation City of New York (Manhattan plus, after 1874/1895, the annexed West/East Bronx); Brooklyn was a separate city until 1898."
+2,los_angeles_ca,Los Angeles,CA,"Los Angeles, CA",3898747,no,
+3,chicago_il,Chicago,IL,"Chicago, IL",2746388,yes,"A small part of the city (O'Hare area) lies in DuPage County."
+4,houston_tx,Houston,TX,"Houston, TX",2304580,yes,"Parts of the city lie in Fort Bend and Montgomery counties."
+5,phoenix_az,Phoenix,AZ,"Phoenix, AZ",1608139,no,
+6,philadelphia_pa,Philadelphia,PA,"Philadelphia, PA",1603797,no,"City and county consolidated in 1854; before that the county contained many separate municipalities."
+7,san_antonio_tx,San Antonio,TX,"San Antonio, TX",1434625,yes,"Small portions extend into Comal and Medina counties."
+8,san_diego_ca,San Diego,CA,"San Diego, CA",1386932,no,
+9,dallas_tx,Dallas,TX,"Dallas, TX",1304379,yes,"Parts of the city lie in Collin, Denton, Kaufman and Rockwall counties."
+10,san_jose_ca,San Jose,CA,"San Jose, CA",1013240,no,
+11,austin_tx,Austin,TX,"Austin, TX",961855,yes,"Parts of the city lie in Williamson and Hays counties."
+12,jacksonville_fl,Jacksonville,FL,"Jacksonville, FL",949611,no,"City and Duval County consolidated in 1968."
+13,fort_worth_tx,Fort Worth,TX,"Fort Worth, TX",918915,yes,"Parts of the city lie in Denton, Johnson, Parker and Wise counties."
+14,columbus_oh,Columbus,OH,"Columbus, OH",905748,yes,"Parts of the city lie in Delaware and Fairfield counties."
+15,indianapolis_in,Indianapolis,IN,"Indianapolis, IN",887642,no,"Unigov (city-county consolidation) took effect in 1970; 1970+ figures are the consolidated city 'balance' (excludes Beech Grove, Lawrence, Southport, Speedway)."
+16,charlotte_nc,Charlotte,NC,"Charlotte, NC",874579,no,
+17,san_francisco_ca,San Francisco,CA,"San Francisco, CA",873965,no,"City and County of San Francisco consolidated in 1856. Official 1850 census returns for San Francisco were destroyed by fire."
+18,seattle_wa,Seattle,WA,"Seattle, WA",737015,no,
+19,denver_co,Denver,CO,"Denver, CO",715522,no,
+20,washington_dc,Washington,DC,"Washington, DC",689545,no,"Before the 1871-1878 consolidation, the City of Washington was one of several jurisdictions in the District (with Georgetown and Washington County)."
+21,nashville_tn,Nashville,TN,"Nashville, TN",689447,no,"Metro Nashville-Davidson consolidated in 1963; post-consolidation figures are the 'balance' (excludes satellite cities), except the source reports the full consolidated total for 1970."
+22,oklahoma_city_ok,Oklahoma City,OK,"Oklahoma City, OK",681054,yes,"Parts of the city lie in Canadian, Cleveland and Pottawatomie counties."
+23,el_paso_tx,El Paso,TX,"El Paso, TX",678815,no,
+24,boston_ma,Boston,MA,"Boston, MA",675647,no,"Suffolk County also contains Chelsea, Revere and Winthrop."
+25,portland_or,Portland,OR,"Portland, OR",652503,yes,"Small parts lie in Washington and Clackamas counties."
+26,las_vegas_nv,Las Vegas,NV,"Las Vegas, NV",641903,no,"Clark County was created in 1909; Las Vegas incorporated in 1911."
+27,detroit_mi,Detroit,MI,"Detroit, MI",639111,no,
+28,memphis_tn,Memphis,TN,"Memphis, TN",633104,no,
+29,louisville_ky,Louisville,KY,"Louisville, KY",633045,no,"Louisville and Jefferson County merged in 2003; 2010+ figures are the metro government 'balance'."
+30,baltimore_md,Baltimore,MD,"Baltimore, MD",585708,no,"Baltimore City separated from Baltimore County in 1851 and is an independent city (county-equivalent)."
+31,milwaukee_wi,Milwaukee,WI,"Milwaukee, WI",577222,no,
+32,albuquerque_nm,Albuquerque,NM,"Albuquerque, NM",564559,no,
+33,tucson_az,Tucson,AZ,"Tucson, AZ",542629,no,
+34,fresno_ca,Fresno,CA,"Fresno, CA",542107,no,
+35,sacramento_ca,Sacramento,CA,"Sacramento, CA",524943,no,
+36,kansas_city_mo,Kansas City,MO,"Kansas City, MO",508090,yes,"Large parts of the city lie in Clay and Platte counties (and a small part in Cass)."
+37,mesa_az,Mesa,AZ,"Mesa, AZ",504258,no,
+38,atlanta_ga,Atlanta,GA,"Atlanta, GA",498715,yes,"Part of the city lies in DeKalb County. Fulton County absorbed Campbell and Milton counties in 1932."
+39,omaha_ne,Omaha,NE,"Omaha, NE",486051,no,"The 1890 census counts for Omaha (and Lincoln) are widely regarded as inflated; both cities' 1900 counts were lower."
+40,colorado_springs_co,Colorado Springs,CO,"Colorado Springs, CO",478961,no,
+41,raleigh_nc,Raleigh,NC,"Raleigh, NC",467665,yes,"A small part lies in Durham County."
+42,long_beach_ca,Long Beach,CA,"Long Beach, CA",466742,no,
+43,virginia_beach_va,Virginia Beach,VA,"Virginia Beach, VA",459470,no,"Virginia Beach became an independent city in 1952 and merged with Princess Anne County in 1963."
+44,miami_fl,Miami,FL,"Miami, FL",442241,no,
+45,oakland_ca,Oakland,CA,"Oakland, CA",440646,no,
+46,minneapolis_mn,Minneapolis,MN,"Minneapolis, MN",429954,no,
+47,tulsa_ok,Tulsa,OK,"Tulsa, OK",413066,yes,"Parts of the city lie in Osage, Rogers and Wagoner counties. Before statehood (1907) Tulsa lay in the Creek Nation, Indian Territory, which had no counties."
+48,bakersfield_ca,Bakersfield,CA,"Bakersfield, CA",403455,no,
+49,wichita_ks,Wichita,KS,"Wichita, KS",397532,no,
+50,arlington_tx,Arlington,TX,"Arlington, TX",394266,no,
+51,aurora_co,Aurora,CO,"Aurora, CO",386261,yes,"The city spans Arapahoe, Adams and Douglas counties; Arapahoe is used throughout. Incorporated as Fletcher (1891), renamed Aurora (1907)."
+52,tampa_fl,Tampa,FL,"Tampa, FL",384959,no,
+53,new_orleans_la,New Orleans,LA,"New Orleans, LA",383997,no,"Comparator is Orleans Parish (Louisiana's county-equivalent). The city annexed Lafayette (1852), Algiers (1870) and Carrollton (1874) and has been coextensive with the parish since; 1880-1890 parish values are set equal to the city. The 1840 city figure in the source equals the parish total. No 1810 parish figure was transcribed."
+54,cleveland_oh,Cleveland,OH,"Cleveland, OH",372624,no,
+55,anaheim_ca,Anaheim,CA,"Anaheim, CA",346824,no,"Some early city values below the 2,500 reporting threshold are estimates from Populstat (J. Lahmeyer) or a state data center rather than census counts."
+56,lexington_ky,Lexington,KY,"Lexington, KY",322570,no,Lexington and Fayette County merged into the Lexington-Fayette Urban County Government in 1974; 1980+ city figures equal the county.
+57,stockton_ca,Stockton,CA,"Stockton, CA",320804,no,
+58,corpus_christi_tx,Corpus Christi,TX,"Corpus Christi, TX",317863,yes,"Parts of the city lie in Kleberg, San Patricio and Aransas counties."
+59,henderson_nv,Henderson,NV,"Henderson, NV",317610,no,Incorporated in 1953.
+60,riverside_ca,Riverside,CA,"Riverside, CA",314998,no,
+61,newark_nj,Newark,NJ,"Newark, NJ",311549,no,
+62,st_paul_mn,St. Paul,MN,"St. Paul, MN",311527,no,
+63,santa_ana_ca,Santa Ana,CA,"Santa Ana, CA",310227,no,"Some early city values below the 2,500 reporting threshold are estimates from Populstat (J. Lahmeyer) or a state data center rather than census counts."
+64,cincinnati_oh,Cincinnati,OH,"Cincinnati, OH",309317,no,
+65,irvine_ca,Irvine,CA,"Irvine, CA",307670,no,"Irvine incorporated in 1971; the 1940-1970 values are Populstat estimates for the unincorporated area, not census counts of a city."
+66,orlando_fl,Orlando,FL,"Orlando, FL",307573,no,
+67,pittsburgh_pa,Pittsburgh,PA,"Pittsburgh, PA",302971,no,Pittsburgh annexed Allegheny City in 1907.
+68,st_louis_mo,St. Louis,MO,"St. Louis, MO",301578,no,St. Louis separated from St. Louis County in 1876 and is an independent city (county-equivalent).
+69,greensboro_nc,Greensboro,NC,"Greensboro, NC",299035,no,
+70,jersey_city_nj,Jersey City,NJ,"Jersey City, NJ",292449,no,
+71,lincoln_ne,Lincoln,NE,"Lincoln, NE",291082,no,The 1890 census counts for Lincoln (and Omaha) are widely regarded as inflated; both cities' 1900 counts were lower.
+72,plano_tx,Plano,TX,"Plano, TX",285494,yes,"Part of the city lies in Denton County. Some early city values below the 2,500 reporting threshold are estimates from Populstat (J. Lahmeyer) or a state data center rather than census counts."
+73,durham_nc,Durham,NC,"Durham, NC",283506,yes,Small parts of the city lie in Wake and Orange counties. Durham County was created from Orange and Wake counties in 1881.
+74,buffalo_ny,Buffalo,NY,"Buffalo, NY",278349,no,"Some early city values below the 2,500 reporting threshold are estimates from Populstat (J. Lahmeyer) or a state data center rather than census counts."
+75,chandler_az,Chandler,AZ,"Chandler, AZ",275987,no,Incorporated in 1920.
+76,chula_vista_ca,Chula Vista,CA,"Chula Vista, CA",275487,no,Incorporated in 1911.
+77,toledo_oh,Toledo,OH,"Toledo, OH",270871,no,
+78,madison_wi,Madison,WI,"Madison, WI",269840,no,"The source's 1840 city value (1,500, a non-census estimate) exceeds the 1840 census count for all of Dane County (314) and is shown as missing."
+79,gilbert_az,Gilbert,AZ,"Gilbert, AZ",267918,no,"Gilbert is incorporated as a town (1920), not a city."
+80,reno_nv,Reno,NV,"Reno, NV",264165,no,
+81,fort_wayne_in,Fort Wayne,IN,"Fort Wayne, IN",263886,no,
+82,north_las_vegas_nv,North Las Vegas,NV,"North Las Vegas, NV",262527,no,Incorporated in 1946.
+83,st_petersburg_fl,St. Petersburg,FL,"St. Petersburg, FL",258308,no,"Some early city values below the 2,500 reporting threshold are estimates from Populstat (J. Lahmeyer) or a state data center rather than census counts."
+84,lubbock_tx,Lubbock,TX,"Lubbock, TX",257141,no,"Some early city values below the 2,500 reporting threshold are estimates from Populstat (J. Lahmeyer) or a state data center rather than census counts."
+85,irving_tx,Irving,TX,"Irving, TX",256684,no,Incorporated in 1914.
+86,laredo_tx,Laredo,TX,"Laredo, TX",255205,no,
+87,winston_salem_nc,Winston-Salem,NC,"Winston-Salem, NC",249545,no,Winston and Salem merged in 1913; earlier values in the source are for the predecessor town(s).
+88,chesapeake_va,Chesapeake,VA,"Chesapeake, VA",249422,no,Chesapeake was created in 1963 by merging Norfolk County with the city of South Norfolk; it is an independent city (county-equivalent).
+89,glendale_az,Glendale,AZ,"Glendale, AZ",248325,no,
+90,garland_tx,Garland,TX,"Garland, TX",246018,yes,"Small parts of the city lie in Collin and Rockwall counties. Some early city values below the 2,500 reporting threshold are estimates from Populstat (J. Lahmeyer) or a state data center rather than census counts."
+91,scottsdale_az,Scottsdale,AZ,"Scottsdale, AZ",241361,no,Incorporated in 1951.
+92,norfolk_va,Norfolk,VA,"Norfolk, VA",238005,no,Norfolk is an independent city (county-equivalent); the census county tables include it within Norfolk County through 1890.
+93,boise_id,Boise,ID,"Boise, ID",235684,no,
+94,fremont_ca,Fremont,CA,"Fremont, CA",230504,no,Fremont was incorporated in 1956 from five towns; the 1860 value in the source refers to a predecessor settlement.
+95,spokane_wa,Spokane,WA,"Spokane, WA",228989,no,
+96,santa_clarita_ca,Santa Clarita,CA,"Santa Clarita, CA",228673,no,Incorporated in 1987; the 1980 value refers to the communities that later formed the city.
+97,baton_rouge_la,Baton Rouge,LA,"Baton Rouge, LA",227470,no,"Comparator is East Baton Rouge Parish. City-parish consolidation and a large annexation took effect in 1949, hence the 1950 jump. Some early city values below the 2,500 reporting threshold are estimates from Populstat (J. Lahmeyer) or a state data center rather than census counts."
+98,richmond_va,Richmond,VA,"Richmond, VA",226610,no,Richmond is an independent city (county-equivalent); the census county tables include it within Henrico County through 1890.
+99,hialeah_fl,Hialeah,FL,"Hialeah, FL",223109,no,Incorporated in 1925.
+100,san_bernardino_ca,San Bernardino,CA,"San Bernardino, CA",222101,no,"Some early city values below the 2,500 reporting threshold are estimates from Populstat (J. Lahmeyer) or a state data center rather than census counts."
